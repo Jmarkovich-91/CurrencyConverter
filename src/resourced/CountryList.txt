@@ -1,0 +1,31 @@
+Australia	AUD
+Brazil	BRL
+Bulgaria	BGN
+Canada	CAD
+China	CNY
+Croatia	HRK
+Czech Republic	CZK
+Denmark	DKK
+Hong Kong	HKD
+Hungary	HUF
+India	INR
+Indonesia	IDR
+Israel	ILS
+Japan	JPY
+Liechtenstein	CHF
+Malaysia	MYR
+Mexico	MXN
+New Zealand	NZD
+Norway	NOK
+Philippines	PHP
+Poland	PLN
+Romania	RON
+Russia	RUB
+Singapore	SGD
+South Africa	ZAR
+South Korea	KRW
+Sweden	SEK
+Thailand	THB
+Turkey	TRY
+United Kingdom	GBP
+United States	USD
